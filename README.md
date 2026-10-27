@@ -83,8 +83,6 @@ During test inference, if all five aspect predictions are classified as `none`, 
 │   ├── contest2_train.csv                # Training data
 │   └── contest2_test.csv                 # Test data
 ├── docs/
-│   ├── Contest 2 – Aspect-based Sentiment Analysis.pdf
-│   ├── Contest 2 – Aspect-based Sentiment Analysis.docx
 │   └── Report.md                         # Detailed experimental report
 ├── notebooks/
 │   ├── data.ipynb                        # Exploratory data analysis
